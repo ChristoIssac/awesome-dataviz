@@ -258,6 +258,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python), originall
 - [fl_chart](https://github.com/imaNNeo/fl_chart) - Customizable Flutter chart library with line, bar, pie, scatter and radar charts.
 - [flutter_map](https://github.com/fleaflet/flutter_map) - Vendor-free, customizable interactive map package for Flutter.
 - [Graphic](https://github.com/entronad/graphic) - Grammar of graphics data visualization and charting library for Flutter.
+- [Syncfusion Flutter Charts](https://www.syncfusion.com/flutter-widgets/flutter-charts) - 30+ animated, interactive chart types for Flutter.
 
 ## Golang tools
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Lightweight ASCII line graphs for command-line apps.
@@ -319,6 +320,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python), originall
 - [OxyPlot](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET.
 - [Plotly.NET](https://github.com/plotly/Plotly.NET) - Interactive charts for F# and C#, based on Plotly.js.
 - [ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive plotting library for .NET with WinForms, WPF, Avalonia, Blazor and other controls.
+- [Syncfusion .NET MAUI Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts) - Cartesian and other chart types for .NET MAUI apps.
 - [XCharts](https://github.com/XCharts-Team/XCharts) - Charting and data visualization library for Unity, built on UGUI.
 
 ## Python tools
